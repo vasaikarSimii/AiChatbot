@@ -1,2 +1,2 @@
 # AiChatbot
-An AI chatbot project with with Python integrating Open Source libraries
+This project has the basic template of how to use Langchains OPENAI ChatOpenAI to build a custom AI chatbot
